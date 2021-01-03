@@ -34,8 +34,8 @@ export const Profile = () => {
       {/* <UserDetails/> */}
           {/* <Persnalinfofrm/> */}
           {/* <Progressbar/> */}
-               {/* <Userprofile/> */}
-             <Profileinput/>        
+               <Userprofile/>
+             {/* <Profileinput/>         */}
     
     </>
   );
